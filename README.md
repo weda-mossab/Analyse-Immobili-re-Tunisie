@@ -2,8 +2,6 @@
 
 Un tableau de bord interactif pour analyser le marché immobilier tunisien à partir de données collectées sur Mubawab.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Dashboard+Preview)
-
 ## 📋 Description du projet
 
 Ce projet est une solution complète pour l'analyse des annonces immobilières en Tunisie, composée de trois parties principales:
